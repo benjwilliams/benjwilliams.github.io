@@ -80,7 +80,7 @@ Since the width of the screen, the screen resolution, or the size of the window 
 # (Definitely read all of this)
 
 ## Run the program
-Right click on your `index.html` file and select "Preview with Live Server".
+Right click on your `index.html` file and select "Preview with ".
 
 
 # TODO 1: Learn how to move the box
